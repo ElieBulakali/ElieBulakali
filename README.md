@@ -7,6 +7,6 @@
 - ⚡ Fun fact: computing ...
 
 <!---
-ElieBulakali/ElieBulakali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ElieBulakali/ElieBulakali is a ✨ Software engineer ✨ IT because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
